@@ -1,11 +1,13 @@
-Data section
+Samples of all data is provided in this link.
 
 The following data is needed to complete this scenario:
 
-1) Living costs in George, South Africa
-2) Living, population, quality of life, crime, health care, pollution & traffic data for major cities in Canada
-3) Current COVID 19 statistics in Canada states & cities
-4) IBM branches in Canada
-5) Foursquare geo services
+1) Living costs in George, South Africa --- cost_of_living_comparison.csv contains data comparisons of George vs 10 major Canadian cities, including 
+   costs related to restraunts, transport, rent, groceries, basic utilities, childcare, clothing comparisons. This data will be used to assess the current cost of living vs
+   moving to Canada, adjusted for the new salary.
+2) Living, population, quality of life, crime, health care, pollution, temperature & traffic data for major cities in Canada ---multiple csv files per major Canadian city            outlining key differences as per above. This data will be used to choose the best city based on above criteria.
+3) Current COVID 19 statistics in Canada states & cities ---COVID19_CA_RSA.csv file contains mountains of data to compare the increase/decrease in sectors such as parks, grocery      stores, drug stores, workplaces, residential, transportation. This data leads to the theory discussed in the introduction. This data will be analysed and plotted in the final      notebook.
+4) IBM branches in Canada --- ibm_locations.csv contains longitude & latitude information for all IBM branches in Canada, manually searched and updated on the sheet. This data        will be used to compare to a chosen city/neighborhood to see if it is within the stated 40km barrier.
+5) Foursquare geo location services ---The API will be used to plot geographical data obtained from the csv files in this link. heat maps and clustering will be plotted as well on    the final notebook. The API will also be used to get venues such as restraunts, parks, movie theatres, malls, etc used for the clustering methods in order to choose a viable      neighborhood.
 
 1) Sources include csv files from Statistics Canada, Google Mobility Data, website srapes from Wikipedia and Numbeo.
