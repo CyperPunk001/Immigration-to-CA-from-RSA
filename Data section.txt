@@ -1,0 +1,11 @@
+Data section
+
+The following data is needed to complete this scenario:
+
+1) Living costs in George, South Africa
+2) Living, population, quality of life, crime, health care, pollution & traffic data for major cities in Canada
+3) Current COVID 19 statistics in Canada states & cities
+4) IBM branches in Canada
+5) Foursquare geo services
+
+1) Living costs in George, South Africa deposited into a csv file, sraped from www.numbeo.com
