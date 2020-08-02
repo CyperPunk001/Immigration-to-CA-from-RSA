@@ -1,0 +1,19 @@
+Scenario: The husband of a young family living in South Africa has recently received and accepted an offer to work at IBM in Canada.
+
+The family has to the end of August 2020 to move to Canada, and has a lot to consider before immigration is to be realised. The salary accepted by the husband is $100 000 per annum.
+
+The husband needs to compare current cost of living in his city of George, South Africa, with each major city in Canada, along with crime, health care, population, quality of life, healthcare, pollution and traffic to work.
+
+In this scenario, IBM has agreed that the husband may work from home, however, if an office is within 40 kilometers from his home, he should report to the office instead.
+
+The young family is comprised of the husband(35), wife(34), and a young daughter(3). The family is looking to adopt a dog, and a cat as soon as they have settled in.
+
+The family has come to terms with the current COVID 19 pandemic, hence the husband has done some research of the current trend in Canada, and has come to an interesting theory. 
+Current data indicates that parks has a negative correlation with infections. According to a news article posted by news agencies in Canada,
+parks are to be opened to assist with social distancing, and sanity of families living in isolation.
+
+In addition, the family has some peculiar interests/hobbies and are seeking a city and neighborhood that hopefully will accommodate all their constraints.
+The husband loves long walks/jogs in parks, and training at a local gym. The wife loves Sushi Restaurants, movie theaters, malls, and coffee shops.
+As a family, long walks in parks, visits to museums, art galaries, malls are good ways to get outside. However due to the current pandemic, they will have to thinks smart about choosing the correct neighborhood. 
+The young mother also needs a day care center for her young daughter while she sets out to find a job. The wife is a freshly graduated, qualified electronics engineer and the husband, an A.I Engineer by profession.
+
